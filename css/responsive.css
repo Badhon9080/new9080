@@ -1,0 +1,1956 @@
+/*xs*/
+@media (min-width: 360px) and (max-width: 575.98px) {
+    /*Nav Section CSS Start*/
+    #main_menu {
+        margin-left: 142px;
+    }
+    #main_menu ul li a {
+        font-size: 9px;
+        color: #fff;
+        text-transform: uppercase;
+        transition: all linear 0.5s;
+        font-weight: 800;
+        padding: 9px;
+      }
+      .about_menu{
+        margin-left: -6px
+      }
+      .service_menu{
+        margin-left: -3px;
+      }
+      .mywork_menu{
+        margin-left: -6px
+      }
+      .contact_menu{
+        margin-left: -11px;
+      }
+    /*//Nav Section CSS End*/
+    /*Banner Section CSS Start */
+    #banner {
+      background-image: url(../img/banner.jpg);
+      background-size: cover;
+      background-position: center;
+      position: relative;
+      z-index: 1;
+      height: 300px;
+    }
+    .banner_content {
+      margin-top: 62px;
+    }
+    .banner_content_lorem_heading h3 {
+      font-size: 12px;
+      font-weight: 800;
+      color: #fff;
+    }
+    .banner_content_incidunt_heading {
+      margin-top: 9px;
+    }
+    .banner_content_incidunt_heading h1 {
+      font-size: 20px;
+      letter-spacing: 9px;
+      font-weight: 800;
+      text-transform: uppercase;
+      color: #fff;
+    }
+    .banner_content_orem_paragraph {
+      margin-top: 12px;
+    }
+    .banner_content_orem_paragraph p {
+      font-size: 9px;
+      font-weight: 800;
+      color: #fff;
+    }
+    .banner_content_divident_img {
+      margin-top: 10px;
+    }
+    .banner_content_divident_img img{
+      width: 73px;
+    }
+    .banner_content_knowmore_link {
+      margin-top: 10px;
+    }
+    .banner_content_knowmore_link a {
+      color: #0b1016;
+      font-size: 7px;
+      font-weight: 800;
+      background-color: #9fc91d;
+      transition: all linear 0.5s;
+      padding: 7px 13px;
+    }
+    /*//Banner Section CSS End */
+
+    /*About Section CSS Start */.about_content_paragraph {Margin-Top: 10px;
+margin-left: 36px;
+}
+#about {
+  margin-top: 25px;
+}
+.about_content_heading h2 {
+  color: #02918b;
+  font-size: 21px;
+  font-weight: 800;
+}
+.about_content_sign {
+  margin-top: 12px;
+}
+.about_content_sign p{
+  color: #7e8287;
+  font-size: 9px;
+}
+
+.about_content_paragraph P {
+  width: 246px;
+  color: #7e8287;
+  font-size: 9px;
+  line-height: 19px;
+}
+.about_content_paragraph span {
+  font-size: 16px;
+  font-weight: 800;
+}
+.about_section_parts {
+  margin-top: -1px;
+margin-left: -5px;
+}
+.about_bulb_section {
+  border-right: 1px solid #7e8287;
+ /* height: 212px;*/
+ 
+  border-color: transparent;
+  margin-left: 67px;
+}
+.about_pen_section {
+  border-right: 1px solid #7e8287;
+  margin-top: -57px;
+  border-color: transparent;
+  margin-left: 67px;
+}
+.about_setting_section {
+  border-right: 1px solid #7e8287;
+ /* height: 212px;*/
+  border-color: transparent;
+  margin-top: -57px;
+  margin-left: 67px;
+}
+.about_monitor_section {
+  margin-top: -57px;
+   margin-left: 67px;
+}
+.about_section_img {
+  margin-top: 42px;
+margin-left: 19px;
+}
+.about_section_heading {
+  margin-top: 14px;
+  margin-left: 17px;
+}
+.about_section_heading h4 {
+  color: #7e8287;
+  font-size: 12px;
+  font-weight: 800;
+}
+.about_section_paragraph {
+  margin-top: 5px;
+margin-left: 30px;
+}
+.about_section_paragraph p {
+  color: #7e8287;
+  font-size: 9px;
+  width: 141px;
+}
+/*//About Section CSS End */
+/*Service Section CSS Start */
+#service {
+  background: #f0f0e8;
+  background-size: cover;
+  background-position: center;
+  margin-top: 89px;
+  height: 615px;
+}
+.service_content {
+  text-align: center;
+  margin-top: 49px;
+}
+.service_content_heading h2 {
+  color: #02918b;
+  font-size: 21px;
+  font-weight: 800;
+}
+.service_content_sign {
+  margin-top: 12px;
+}
+
+.service_content_sign p {
+  color: #7e8287;
+  font-size: 9px;
+}
+.service_content_paragraph {
+  margin-top: 9px;
+}
+.service_content_paragraph p {
+  color: #7e8287;
+  line-height: 24px;
+  font-size: 9px;
+  width: 319px;
+}
+.service_section_parts {
+  text-align: center;
+  margin-top: 42px;
+}
+.service_world_section{
+  margin-left: 99px;
+}
+.service_zoom_section {
+  margin-left: 99px;
+  margin-top: 30px;
+}
+.service_sections_heading {
+  margin-top: 13px;
+}
+.service_sections_heading h4 {
+  color: #7e8287;
+  font-size: 12px;
+  font-weight: 800;
+}
+.service_section_paragraph {
+  margin-top: 13px;
+}
+.service_section_paragraph p {
+  color: #7e8287;
+  font-size: 9px;
+  width: 141px;
+}
+
+.service_watch_section {
+  margin-left: 99px;
+  margin-top: 30px;
+}
+.service_eco_section {
+  margin-left: 99px;
+  margin-top: 30px;
+}
+/*// Service Section CSS End */
+/*Mywork Section CSS Start */
+#mywork{
+  margin-top: 52px;
+}
+.mywork_content_heading h2 {
+  color: #02918b;
+  font-size: 21px;
+  font-weight: 800;
+}
+
+.mywork_content_sign {
+  margin-top: 8px;
+}
+.mywork_content_sign p {
+  color: #7e8287;
+  font-size: 9px;
+}
+.mywork_content_paragraph {
+  margin-top: 19px;
+  margin-left: -7px;
+}
+
+.mywork_content_paragraph p {
+  color: #7e8287;
+  font-size: 9px;
+  line-height: 19px;
+  width: 343px;
+}
+.mywork_sections_parts {
+  margin-top: 67px;
+}
+.mywork_section_img {
+  position: relative;
+}
+.mywork_section_two {
+  width: 100%;
+}
+.mywork_section_one {
+  width: 100%;
+}
+.mywork_section_three {
+  width: 100%;
+}
+.mywork_section_four {
+  width: 100%;
+}
+.mywork_section_five {
+  width: 100%;
+}
+.mywork_section_six {
+  width: 100%;
+}
+.mywork_section_seven {
+  width: 100%;
+}
+.mywork_section_eight {
+  width: 100%;
+}
+.mywork_section_overlay {
+  inset:28px;
+position: absolute;
+background-color: rgba(38, 151, 140, 0.66);
+
+}
+
+.mywork_section_heading {
+  margin-top: 52px;
+}
+.mywork_section_heading h4 {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 800;
+}
+.mywork_section_paragraph {
+  margin-top: 12px;
+  margin-left: 73px;
+}
+.mywork_section_paragraph  P {
+  font-size: 11px;
+  color: #fff;
+  width: 166px;
+}
+/*//Mywork Section CSS End */
+
+
+/*Contact Section CSS Start*/
+#contact {
+  margin-top: 52px;
+}
+
+.contact_sections_form {
+  background-color: #0a0a0b;
+  margin-top: 67px;
+  height: 411px;
+}
+.contact_form {
+  margin-top: 42px;
+}
+.contact_name_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 9px;
+  color: #767a7f;
+  width: 300px;
+  padding-left: 134px;
+  padding-bottom: 19px;
+}
+.contact_name_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form {
+  margin-top: 29px;
+}
+.contact_email_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 9px;
+  color: #767a7f;
+  width: 300px;
+  padding-left: 114px;
+  padding-bottom: 19px;
+}
+.contact_message_form {
+  margin-top: 29px;
+}
+.contact_message_form textarea {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 9px;
+  color: #767a7f;
+  width: 315px;
+  padding-left: 134px;
+  padding-bottom: 19px;
+}
+.contact_message_form textarea:focus {
+  box-shadow: none;
+  outline: none;
+}
+.submit_button {
+  margin-top: 32px;
+  
+}
+.submit_button button {color: #0b1016;
+  background-color: #cfc91d;
+  border: none;
+  font-size: 9px;
+  font-weight: 800;
+  padding: 9px 11px;
+}
+/*//Contact Section CSS End */
+/*Last Section CSS Start */
+#last_section {
+  background-color: #000;
+  height: 33px;
+}
+.last_section_content {
+   margin-top: 9px;
+}
+.last_section_content p {
+   font-size: 12px;
+   color: #767a7f;
+}
+/*//Last Section CSS End */
+}
+
+/*sm*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+      /*Nav Section CSS Start*/
+      #main_menu {
+        margin-left: 234px;
+    }
+    #main_menu ul li a {
+        font-size: 12px;
+        color: #fff;
+        text-transform: uppercase;
+        transition: all linear 0.5s;
+        font-weight: 800;
+        padding: 15px;
+      }
+      .about_menu{
+        margin-left:  -9px;
+      }
+      .service_menu{
+        margin-left: -3px;
+      }
+      .mywork_menu{
+        margin-left: -9px;
+      }
+      .contact_menu{
+        margin-left: -15px;
+      }
+    /*//Nav Section CSS End*/
+        /*Banner Section CSS Start */
+        #banner {
+          background-image: url(../img/banner.jpg);
+          background-size: cover;
+          background-position: center;
+          position: relative;
+          z-index: 1;
+          height: 300px;
+        }
+        .banner_content {
+          margin-top: 52px;
+        }
+        .banner_content_lorem_heading h3 {
+          font-size: 15px;
+          font-weight: 800;
+          color: #fff;
+        }
+        .banner_content_incidunt_heading {
+          margin-top: 9px;
+        }
+        .banner_content_incidunt_heading h1 {
+          font-size: 32px;
+          letter-spacing: 9px;
+          font-weight: 800;
+          text-transform: uppercase;
+          color: #fff;
+        }
+        .banner_content_orem_paragraph {
+          margin-top: 12px;
+        }
+        .banner_content_orem_paragraph p {
+          font-size: 12px;
+          font-weight: 800;
+          color: #fff;
+        }
+        .banner_content_divident_img {
+          margin-top: 10px;
+        }
+        .banner_content_divident_img img{
+          width: 73px;
+        }
+        .banner_content_knowmore_link {
+          margin-top: 10px;
+        }
+        .banner_content_knowmore_link a {
+          color: #0b1016;
+          font-size: 7px;
+          font-weight: 800;
+          background-color: #9fc91d;
+          transition: all linear 0.5s;
+          padding: 7px 13px;
+        }
+        /*//Banner Section CSS End */    /*About Section CSS Start */.about_content_paragraph {Margin-Top: 10px;
+margin-left: 36px;
+}
+#about {
+  margin-top: 42px;
+}
+.about_content_heading h2 {
+  color: #02918b;
+  font-size: 30px;
+  font-weight: 800;
+}
+.about_content_sign {
+  margin-top: 12px;
+}
+.about_content_sign p{
+  color: #7e8287;
+  font-size: 9px;
+}
+
+.about_content_paragraph P {
+  line-height: 24px;
+  width: 442px;
+color: #7e8287;
+font-size: 12px;
+}
+.about_content_paragraph span {
+  font-size: 16px;
+  font-weight: 800;
+}
+.about_section_parts {
+  margin-top: -1px;
+margin-left: -39px;
+}
+.about_bulb_section {
+  border-right: 1px solid #7e8287;
+ /* height: 212px;*/
+ 
+  border-color: transparent;
+  margin-left: 67px;
+}
+.about_pen_section {
+  border-right: 1px solid #7e8287;
+  margin-top: 1px;
+border-color: transparent;
+margin-left: 57px;
+}
+.about_setting_section {
+  border-right: 1px solid #7e8287;
+ /* height: 212px;*/
+  border-color: transparent;
+  margin-top: -57px;
+  margin-left: 67px;
+}
+.about_monitor_section {
+  margin-top: -51px;
+margin-left: 64px;
+}
+.about_section_img {
+  margin-top: 42px;
+margin-left: 19px;
+}
+.about_section_heading {
+  margin-top: 14px;
+  margin-left: 17px;
+}
+.about_section_heading h4 {
+  color: #7e8287;
+  font-size: 14px;
+  font-weight: 800;
+}
+.about_section_paragraph {
+  margin-top: 5px;
+margin-left: 30px;
+}
+.about_section_paragraph p {
+  color: #7e8287;
+font-size: 11px;
+width: 155px;
+}
+/*//About Section CSS End */
+/*Service Section CSS Start */
+#service {
+  background: #f0f0e8;
+  background-size: cover;
+  background-position: center;
+  margin-top: 89px;
+  height: 615px;
+}
+.service_content {
+  margin-top: 49px;
+}
+.service_content_heading h2 {
+  color: #02918b;
+  font-size: 30px;
+  font-weight: 800;
+}
+.service_content_sign {
+  margin-top: 12px;
+}
+
+.service_content_sign p {
+  color: #7e8287;
+  font-size: 9px;
+}
+.service_content_paragraph {
+  margin-top: 9px;
+}
+.service_content_paragraph p {
+  line-height: 28px;
+width: 420px;
+color: #7e8287;
+font-size: 12px;
+}
+.service_section_parts {
+  margin-top: 42px;
+}
+.service_sections_heading {
+  margin-top: 19px;
+}
+.service_sections_heading h4 {
+  color: #7e8287;
+  font-size: 14px;
+  font-weight: 800;
+}
+.service_section_paragraph {
+  margin-top: 19px;
+}
+.service_section_paragraph p {
+  color: #7e8287;
+  font-size: 11px;
+  width: 166px;
+}
+.service_zoom_section {
+  margin-left: 92px;
+}
+.service_watch_section {
+  margin-top: 53px;
+}
+.service_eco_section {
+  margin-left: 92px;
+  margin-top: 53px;
+}
+/*// Service Section CSS End */
+/*Mywork Section CSS Start */
+#mywork{
+  margin-top: 52px;
+}
+.mywork_content_heading h2 {
+  color: #02918b;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.mywork_content_sign {
+  margin-top: 8px;
+}
+.mywork_content_sign p {
+  color: #7e8287;
+  font-size: 9px;
+}
+.mywork_content_paragraph {
+  margin-top: 19px;
+  margin-left: 35px;
+}
+
+.mywork_content_paragraph p {
+  color: #7e8287;
+  font-size: 12px;
+  line-height: 30px;
+  width: 450px;
+}
+
+.mywork_sections_parts {
+  margin-top: 67px;
+}
+.mywork_section_img {
+  position: relative;
+}
+/*
+.mywork_section_two {
+  width: 100%;
+}
+.mywork_section_one {
+  width: 100%;
+}
+.mywork_section_three {
+  width: 100%;
+}
+.mywork_section_four {
+  width: 100%;
+}
+.mywork_section_five {
+  width: 100%;
+}
+.mywork_section_six {
+  width: 100%;
+}
+.mywork_section_seven {
+  width: 100%;
+}
+.mywork_section_eight {
+  width: 100%;
+}
+*/
+.mywork_section_overlay {
+  inset:28px;
+position: absolute;
+background-color: rgba(38, 151, 140, 0.66);
+
+}
+
+.mywork_section_heading {
+  margin-top: 32px;
+}
+.mywork_section_heading h4 {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 800;
+}
+.mywork_section_paragraph {
+  margin-top: 12px;
+  margin-left: 33px;
+}
+.mywork_section_paragraph  P {
+  font-size: 11px;
+  color: #fff;
+  width: 166px;
+}/*//Mywork Section CSS ENd */
+/*Contact Section CSS Start*/
+#contact {
+  margin-top: 52px;
+}
+
+.contact_sections_form {
+  background-color: #0a0a0b;
+  margin-top: 67px;
+  height: 411px;
+}
+.contact_form {
+  margin-top: 42px;
+}
+.contact_name_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 9px;
+  color: #767a7f;
+  width: 300px;
+  padding-left: 134px;
+  padding-bottom: 19px;
+}
+.contact_name_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form {
+  margin-top: 29px;
+}
+.contact_email_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 9px;
+  color: #767a7f;
+  width: 300px;
+  padding-left: 114px;
+  padding-bottom: 19px;
+}
+.contact_message_form {
+  margin-top: 29px;
+}
+.contact_message_form textarea {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 9px;
+  color: #767a7f;
+  width: 407px;
+padding-left: 179px;
+  padding-bottom: 19px;
+}
+.contact_message_form textarea:focus {
+  box-shadow: none;
+  outline: none;
+}
+.submit_button {
+  margin-top: 32px;
+  
+}
+.submit_button button {color: #0b1016;
+  background-color: #cfc91d;
+  border: none;
+  font-size: 9px;
+  font-weight: 800;
+  padding: 9px 11px;
+}
+/*//Contact Section CSS End */
+/*Last Section CSS Start */
+#last_section {
+  background-color: #000;
+  height: 33px;
+}
+.last_section_content {
+   margin-top: 9px;
+}
+.last_section_content p {
+   font-size: 12px;
+   color: #767a7f;
+}
+/*//Last Section CSS End */
+}
+
+/* md */
+@media (min-width: 768px) and (max-width: 991.98px) {
+      /*Nav Section CSS Start*/
+      #main_menu {
+        margin-left: 302px;
+    }
+    #main_menu ul li a {
+        font-size: 12px;
+        color: #fff;
+        text-transform: uppercase;
+        transition: all linear 0.5s;
+        font-weight: 800;
+        padding: 15px;
+      }
+      .about_menu{
+        margin-left:  -9px;
+      }
+      .service_menu{
+        margin-left: -3px;
+      }
+      .mywork_menu{
+        margin-left: -9px;
+      }
+      .contact_menu{
+        margin-left: -15px;
+      }
+    /*//Nav Section CSS End*/
+  /*Banner Section CSS Start */
+ #banner {
+     background-image: url(../img/banner.jpg);
+     background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+    height: 417px;
+ }
+ .banner_content {
+     margin-top: 62px;
+  }
+.banner_content_lorem_heading h3 {
+      font-size: 21px;
+      font-weight: 800;
+      color: #fff;
+}
+
+.banner_content_incidunt_heading {
+ margin-top: 9px;
+}
+.banner_content_incidunt_heading h1 {
+   font-size: 52px;
+  letter-spacing: 9px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #fff;
+}
+.banner_content_orem_paragraph {
+  margin-top: 12px;
+}
+.banner_content_orem_paragraph p {
+    font-size: 16px;
+    font-weight: 800;
+    color: #fff;
+}
+.banner_content_divident_img {
+    margin-top: 24px;
+}
+.banner_content_divident_img img{
+    width: 83px;
+}
+.banner_content_knowmore_link {
+   margin-top: 25px;
+}
+.banner_content_knowmore_link a {
+    color: #0b1016;
+    font-size: 11px;
+    font-weight: 800;
+    background-color: #9fc91d;
+    transition: all linear 0.5s;
+    padding: 7px 13px;
+}
+/*//Banner Section CSS End */  /*About Section CSS Start */.about_content_paragraph {Margin-Top: 10px;
+margin-left: 36px;
+}
+#about {
+  margin-top: 42px;
+}
+.about_content_heading h2 {
+  color: #02918b;
+  font-size: 38px;
+  font-weight: 800;
+}
+.about_content_sign {
+  margin-top: 12px;
+}
+.about_content_sign p{
+  color: #7e8287;
+  font-size: 11px;
+}
+
+.about_content_paragraph P {
+  line-height: 28px;
+width: 616px;
+color: #7e8287;
+font-size: 16px;
+}
+.about_content_paragraph span {
+  font-size: 20px;
+  font-weight: 800;
+}
+.about_section_parts {
+  margin-top: -1px;
+margin-left: 16px;
+}
+.about_bulb_section {
+  border-right: 1px solid #7e8287;
+ /* height: 212px;*/
+ 
+  border-color: transparent;
+  margin-left: 67px;
+}
+.about_pen_section {
+  border-right: 1px solid #7e8287;
+  margin-top: 1px;
+border-color: transparent;
+margin-left:115px;
+}
+.about_setting_section {
+  border-right: 1px solid #7e8287;
+ /* height: 212px;*/
+  border-color: transparent;
+  margin-top: -57px;
+  margin-left: 67px;
+}
+.about_monitor_section {
+  margin-top: -51px;
+margin-left: 115px;
+}
+.about_section_img {
+  margin-top: 42px;
+margin-left: 19px;
+}
+.about_section_heading {
+  margin-top: 14px;
+  margin-left: 17px;
+}
+.about_section_heading h4 {
+  color: #7e8287;
+  font-size: 14px;
+  font-weight: 800;
+}
+.about_section_paragraph {
+  margin-top: 5px;
+margin-left: 30px;
+}
+.about_section_paragraph p {
+  color: #7e8287;
+font-size: 11px;
+width: 155px;
+}
+/*//About Section CSS End */
+
+/*Service Section CSS Start */
+#service {
+  background: #f0f0e8;
+  background-size: cover;
+  background-position: center;
+  margin-top: 89px;
+  height: 615px;
+}
+.service_content {
+  margin-top: 49px;
+}
+.service_content_heading h2 {
+  color: #02918b;
+  font-size: 38px;
+  font-weight: 800;
+}
+.service_content_sign {
+  margin-top: 12px;
+}
+
+.service_content_sign p {
+  color: #7e8287;
+  font-size: 12px;
+}
+.service_content_paragraph {
+  margin-top: 9px;
+}
+.service_content_paragraph p {
+  line-height: 28px;
+  color: #7e8287;
+  font-size: 16px;
+  width: 516px;
+}
+.service_section_parts {
+  margin-top: 42px;
+}
+.service_sections_heading {
+  margin-top: 19px;
+}
+.service_sections_heading h4 {
+  color: #7e8287;
+  font-size: 14px;
+  font-weight: 800;
+}
+.service_section_paragraph {
+  margin-top: 19px;
+}
+.service_section_paragraph p {
+  color: #7e8287;
+  font-size: 11px;
+  width: 166px;
+}
+.service_zoom_section {
+  margin-left: 169px;
+}
+.service_watch_section {
+  margin-top: 192px;
+margin-left: -488px;
+}
+.service_eco_section {
+  margin-top: 192px;
+  margin-left: 157px;
+}
+/*// Service Section CSS End */
+/*Mywork Section CSS Start */
+#mywork{
+  margin-top: 52px;
+}
+.mywork_content_heading h2 {
+  color: #02918b;
+  font-size: 38px;
+  font-weight: 800;
+}
+
+.mywork_content_sign {
+  margin-top: 12px;
+}
+.mywork_content_sign p {
+  color: #7e8287;
+  font-size: 12px;
+}
+.mywork_content_paragraph {
+  margin-top: 19px;
+  margin-left: 35px;
+}
+
+.mywork_content_paragraph p {
+  color: #7e8287;
+  font-size: 16px;
+  line-height: 36px;
+  width: 634px;
+}
+
+.mywork_sections_parts {
+  margin-top: 67px;
+}
+.mywork_section_img {
+  position: relative;
+}
+/*
+.mywork_section_two {
+  width: 100%;
+}
+.mywork_section_one {
+  width: 100%;
+}
+.mywork_section_three {
+  width: 100%;
+}
+.mywork_section_four {
+  width: 100%;
+}
+.mywork_section_five {
+  width: 100%;
+}
+.mywork_section_six {
+  width: 100%;
+}
+.mywork_section_seven {
+  width: 100%;
+}
+.mywork_section_eight {
+  width: 100%;
+}
+*/
+
+
+
+
+.mywork_section_overlay {
+  inset:28px;
+position: absolute;
+background-color: rgba(38, 151, 140, 0.66);
+}
+
+.mywork_section_heading {
+  margin-top: 52px;
+}
+.mywork_section_heading h4 {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 800;
+}
+.mywork_section_paragraph {
+  margin-top: 12px;
+  margin-left: 79px;
+}
+.mywork_section_paragraph  P {
+  font-size: 11px;
+  color: #fff;
+  width: 166px;
+}
+/*//Mywork Section CSS ENd */
+/*Contact Section CSS Start*/
+#contact {
+  margin-top: 52px;
+}
+
+.contact_sections_form {
+  background-color: #0a0a0b;
+  margin-top: 67px;
+  height: 411px;
+}
+.contact_form {
+  margin-top: 42px;
+}
+.contact_name_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 11px;
+  color: #767a7f;
+  width: 401px;
+padding-left: 188px;
+  padding-bottom: 19px;
+}
+.contact_name_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form {
+  margin-top: 29px;
+}
+.contact_email_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 11px;
+  color: #767a7f;
+  width: 401px;
+padding-left: 147px;
+  padding-bottom: 19px;
+}
+.contact_message_form {
+  margin-top: 29px;
+}
+.contact_message_form textarea {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 11px;
+  color: #767a7f;
+  width: 541px;
+  padding-left: 243px;
+  padding-bottom: 19px;
+}
+.contact_message_form textarea:focus {
+  box-shadow: none;
+  outline: none;
+}
+.submit_button {
+  margin-top: 32px;
+  
+}
+.submit_button button {color: #0b1016;
+  background-color: #cfc91d;
+  border: none;
+  font-size: 12px;
+  font-weight: 800;
+  padding: 9px 11px;
+}
+/*//Contact Section CSS End */
+/*Last Section CSS Start */
+#last_section {
+  background-color: #000;
+  height: 33px;
+}
+.last_section_content {
+   margin-top: 9px;
+}
+.last_section_content p {
+   font-size: 12px;
+   color: #767a7f;
+}
+/*//Last Section CSS End */
+}
+
+/*lg*/
+@media (min-width: 992px) and (max-width:1199.98px) {
+    /*Nav Section CSS Start*/
+#nav {
+    background-color: #02918b;
+}
+#main_menu ul li a {
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all linear 0.5s;
+    font-weight: 800;
+    padding: 16px;
+}
+#main_menu ul li:hover a {
+    color: #cfc91d;
+}
+/*//Nav Section CSS End */ 
+/*Banner Section CSS Start */
+#banner {
+  background-image: url(../img/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+  height: 700px;
+}
+#banner::before {
+ position: absolute;
+ background-color: rgba(68, 84, 82, 0.60);
+ inset: 0;
+ content: '';
+ z-index: -1;
+}
+.banner_content {
+  margin-top: 109px;
+}
+.banner_content_lorem_heading h3 {
+  font-size: 30px;
+  font-weight: 800;
+  color: #fff;
+}
+
+
+
+.banner_content_incidunt_heading {
+  margin-top: 19px;
+}
+.banner_content_incidunt_heading h1 {
+  font-size: 48px;
+  letter-spacing: 30px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #fff;
+}
+.banner_content_orem_paragraph {
+  margin-top: 19px;
+}
+.banner_content_orem_paragraph p {
+  font-size: 18px;
+  font-weight: 800;
+  color: #fff;
+}
+.banner_content_divident_img {
+  margin-top: 102px;
+}
+.banner_content_knowmore_link {
+  margin-top: 32px;
+}
+.banner_content_knowmore_link a {
+  color: #0b1016;
+ font-size: 14px;
+ font-weight: 800;
+ background-color: #9fc91d;
+ transition: all linear 0.5s;
+ padding: 13px 19px;
+}
+.banner_content_knowmore_link:hover a{
+  border-radius: 13px;
+}
+/*//Banner Section CSS End */ /*About Section CSS Start */
+#about {
+  margin-top: 72px;
+}
+.about_content_heading h2 {
+  color: #02918b;
+  font-size: 43px;
+  font-weight: 800;
+}
+.about_content_sign {
+  margin-top: 21px;
+}
+.about_content_sign p{
+  color: #7e8287;
+  font-size: 11px;
+}
+.about_content_paragraph {
+  margin-top: 19px;
+  margin-left: 36px;
+  }
+.about_content_paragraph P {
+  line-height: 32px;
+  width: 836px;
+  color: #7e8287;
+  font-size: 16px;
+}
+.about_content_paragraph span {
+  font-size: 20px;
+  font-weight: 800;
+}
+.about_section_parts {
+  margin-top: 32px;
+  margin-left: 15px;
+}
+.about_bulb_section {
+  border-right: 1px solid #7e8287;
+  height: 212px;
+
+}
+
+.about_pen_section {
+  border-right: 1px solid #7e8287;
+  margin-left: -32px;
+  height: 212px;
+}
+.about_setting_section {
+  border-right: 1px solid #7e8287;
+  margin-left:-32px;
+ height: 212px;
+ 
+}
+.about_monitor_section {
+  margin-left: -32px;
+}
+.about_section_img {
+  margin-top: 42px;
+margin-left: 19px;
+}
+.about_section_heading {
+  margin-top: 14px;
+  margin-left: 17px;
+}
+.about_section_heading h4 {
+  color: #7e8287;
+  font-size: 14px;
+  font-weight: 800;
+}
+.about_section_paragraph {
+  margin-top: 11px;
+margin-left: 44px;
+}
+.about_section_paragraph p {
+  color: #7e8287;
+font-size: 11px;
+width: 155px;
+}
+/*//About Section CSS End */
+/*Service Section CSS Start */
+#service {
+  background-image: url(../img/SERVICE-TYPING.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 89px;
+  height: 615px;
+}
+.service_content {
+  margin-top: 49px;
+}
+.service_content_heading h2 {
+  color: #02918b;
+  font-size: 46px;
+  font-weight: 800;
+}
+.service_content_sign {
+  margin-top: 19px;
+}
+
+.service_content_sign p {
+  color: #7e8287;
+}
+.service_content_paragraph {
+  margin-top: 19px;
+}
+.service_content_paragraph p {
+  color: #7e8287;
+  font-size: 16px;
+  line-height: 30px;
+  width: 517px;
+}
+.service_section_parts {
+  margin-top: 42px;
+}
+.service_sections_heading {
+  margin-top: 19px;
+}
+.service_sections_heading h4 {
+  color: #7e8287;
+  font-size: 14px;
+  font-weight: 800;
+}
+.service_section_paragraph {
+  margin-top: 19px;
+}
+.service_section_paragraph p {
+  color: #7e8287;
+  font-size: 11px;
+  width: 166px;
+}
+
+.service_watch_section {
+  margin-top: 53px;
+}
+.service_eco_section {
+  
+  margin-top: 53px;
+}
+/*// Service Section CSS End */
+/*Mywork Section CSS Start */
+#mywork{
+  margin-top: 52px;
+}
+.mywork_content_heading h2 {
+  color: #02918b;
+  font-size: 46px;
+  font-weight: 800;
+}
+
+.mywork_content_sign {
+  margin-top: 12px;
+}
+.mywork_content_sign p {
+  color: #7e8287;
+  }
+.mywork_content_paragraph {
+  margin-left: 132px;
+  margin-top: 19px;
+ }
+
+.mywork_content_paragraph p {
+  color: #7e8287;
+  font-size: 16px;
+  line-height: 36px;
+  width: 634px;
+}
+
+.mywork_sections_parts {
+  margin-top: 67px;
+}
+.mywork_section_img {
+  position: relative;
+}
+/*
+.mywork_section_two {
+  width: 100%;
+}
+.mywork_section_one {
+  width: 100%;
+}
+.mywork_section_three {
+  width: 100%;
+}
+.mywork_section_four {
+  width: 100%;
+}
+.mywork_section_five {
+  width: 100%;
+}
+.mywork_section_six {
+  width: 100%;
+}
+.mywork_section_seven {
+  width: 100%;
+}
+.mywork_section_eight {
+  width: 100%;
+}
+*/
+
+
+
+
+.mywork_section_overlay {
+  inset:12px;
+position: absolute;
+background-color: rgba(38, 151, 140, 0.66);
+}
+
+.mywork_section_heading {
+  margin-top: 32px;
+}
+.mywork_section_heading h4 {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 800;
+}
+.mywork_section_paragraph {
+  margin-top: 12px;
+  margin-left: 31px;
+}
+.mywork_section_paragraph  P {
+  font-size: 11px;
+  color: #fff;
+  width: 166px;
+}
+/*//Mywork Section CSS ENd */
+/*Contact Section CSS Start*/
+#contact {
+  margin-top: 52px;
+}
+
+.contact_sections_form {
+  background-color: #0a0a0b;
+  margin-top: 67px;
+  height: 650px;
+}
+.contact_form {
+  margin-top: 78px;
+}
+.contact_name_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 16px;
+ color: #767a7f;
+ width: 668px;
+ padding-left: 303px;
+padding-bottom: 30px;
+}
+.contact_name_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form {
+  margin-top: 42px;
+}
+.contact_email_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form input {
+  padding-left: 255px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  padding-bottom: 30px;
+  font-size: 16px;
+  color: #767a7f;
+ width: 668px;
+}
+.contact_message_form {
+  margin-top: 42px;
+}
+.contact_message_form textarea {
+  padding-left: 372px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  padding-bottom: 30px;
+  font-size: 16px;
+  color: #767a7f;
+ width: 818px;
+}
+.contact_message_form textarea:focus {
+  box-shadow: none;
+  outline: none;
+}
+.submit_button {
+  margin-top: 56px;
+  
+}
+.submit_button button { color: #0b1016;
+  background-color: #cfc91d;
+  border: none;
+  font-size: 14px;
+  font-weight: 800;
+  padding: 13px 17px;
+}
+/*//Contact Section CSS End */
+/*Last Section CSS Start */
+#last_section {
+  background-color: #000;
+  height: 33px;
+}
+.last_section_content {
+   margin-top: 9px;
+}
+.last_section_content p {
+   font-size: 12px;
+   color: #767a7f;
+}
+/*//Last Section CSS End */
+}
+
+
+/*xl*/
+@media (min-width: 1200px) and (max-width:1399.98px){
+    /*Nav Section CSS Start*/
+#nav {
+    background-color: #02918b;
+}
+#main_menu ul li a {
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all linear 0.5s;
+    font-weight: 800;
+    padding: 16px;
+}
+#main_menu ul li:hover a {
+    color: #cfc91d;
+}
+/*//Nav Section CSS End */ 
+/*Banner Section CSS Start */
+#banner {
+  background-image: url(../img/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+  height: 700px;
+}
+#banner::before {
+ position: absolute;
+ background-color: rgba(68, 84, 82, 0.60);
+ inset: 0;
+ content: '';
+ z-index: -1;
+}
+.banner_content {
+  margin-top: 109px;
+}
+.banner_content_lorem_heading h3 {
+  font-size: 30px;
+  font-weight: 800;
+  color: #fff;
+}
+
+
+
+.banner_content_incidunt_heading {
+  margin-top: 19px;
+}
+.banner_content_incidunt_heading h1 {
+  font-size: 62px;
+  letter-spacing: 30px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #fff;
+}
+.banner_content_orem_paragraph {
+  margin-top: 19px;
+}
+.banner_content_orem_paragraph p {
+  font-size: 18px;
+  font-weight: 800;
+  color: #fff;
+}
+.banner_content_divident_img {
+  margin-top: 102px;
+}
+.banner_content_knowmore_link {
+  margin-top: 32px;
+}
+.banner_content_knowmore_link a {
+  color: #0b1016;
+ font-size: 14px;
+ font-weight: 800;
+ background-color: #9fc91d;
+ transition: all linear 0.5s;
+ padding: 13px 19px;
+}
+.banner_content_knowmore_link:hover a{
+  border-radius: 13px;
+}
+/*//Banner Section CSS End */
+/*About Section CSS Start */
+#about {
+  margin-top: 52px;
+}
+.about_content_heading h2 {
+  color: #02918b;
+  font-size: 46px;
+  font-weight: 800;
+}
+.about_content_sign {
+  margin-top: 19px;
+}
+.about_content_sign p{
+  color: #7e8287;
+}
+.about_content_paragraph {
+  margin-top: 19px;
+  margin-left: 118px;
+}
+.about_content_paragraph P {
+  color: #7e8287;
+  font-size: 16px;
+  line-height: 34px;
+  width: 867px;
+}
+.about_content_paragraph span {
+  font-size: 23px;
+  font-weight: 800;
+}
+.about_section_parts {
+  margin-top: 52px;
+  margin-left: 19px;
+}
+.about_bulb_section {
+  border-right: 1px solid #7e8287;
+  height: 212px;
+}
+.about_pen_section {
+  border-right: 1px solid #7e8287;
+  height: 212px;
+}
+.about_setting_section {
+  border-right: 1px solid #7e8287;
+  height: 212px;
+}
+.about_section_img {
+  margin-top: 42px;
+}
+.about_section_heading {
+  margin-top: 17px;
+}
+.about_section_heading h4 {
+  color: #7e8287;
+  font-size: 16px;
+  font-weight: 800;
+}
+.about_section_paragraph {
+  margin-top: 17px;
+margin-left: 56px;
+}
+.about_section_paragraph p {
+  color: #7e8287;
+  font-size: 11px;
+  width: 166px;
+}
+/*//About Section CSS End */
+/*Service Section CSS Start */
+#service {
+  background-image: url(../img/SERVICE-TYPING.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 89px;
+  height: 615px;
+}
+.service_content {
+  margin-top: 49px;
+}
+.service_content_heading h2 {
+  color: #02918b;
+  font-size: 46px;
+  font-weight: 800;
+}
+.service_content_sign {
+  margin-top: 19px;
+}
+
+.service_content_sign p {
+  color: #7e8287;
+}
+.service_content_paragraph {
+  margin-top: 19px;
+}
+.service_content_paragraph p {
+  color: #7e8287;
+  font-size: 16px;
+  line-height: 30px;
+  width: 517px;
+}
+.service_section_parts {
+  margin-top: 42px;
+}
+.service_sections_heading {
+  margin-top: 19px;
+}
+.service_sections_heading h4 {
+  color: #7e8287;
+  font-size: 14px;
+  font-weight: 800;
+}
+.service_section_paragraph {
+  margin-top: 19px;
+}
+.service_section_paragraph p {
+  color: #7e8287;
+  font-size: 11px;
+  width: 166px;
+}
+
+.service_watch_section {
+  margin-top: 53px;
+}
+.service_eco_section {
+  
+  margin-top: 53px;
+}
+/*// Service Section CSS End */
+
+/*Mywork Section CSS Start */
+#mywork{
+  margin-top: 52px;
+}
+.mywork_content_heading h2 {
+  color: #02918b;
+  font-size: 46px;
+  font-weight: 800;
+}
+
+.mywork_content_sign {
+  margin-top: 19px;
+}
+.mywork_content_sign p {
+  color: #7e8287;
+}
+
+
+
+
+.mywork_content_paragraph {
+  margin-left: 217px;
+  margin-top: 19px;
+}
+
+.mywork_content_paragraph p {
+  color: #7e8287;
+  font-size: 16px;
+  line-height: 30px;
+  width: 644px;
+}
+.mywork_sections_parts {
+  margin-top: 67px;
+}
+.mywork_section_img {
+  position: relative;
+}
+.mywork_section_overlay {
+  inset: 28px;
+  position: absolute;
+  background-color: rgba(38, 151, 140, 0.66);
+}
+
+.mywork_section_heading {
+  margin-top: 32px;
+}
+.mywork_section_heading h4 {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 800;
+}
+.mywork_section_paragraph {
+  margin-top: 12px;
+  margin-left: 41px;
+}
+.mywork_section_paragraph  P {
+  font-size: 11px;
+  color: #fff;
+  width: 166px;
+}
+/*//Mywork Section CSS End */
+/*Contact Section CSS Start*/
+#contact {
+  margin-top: 52px;
+}
+
+.contact_sections_form {
+  background-color: #0a0a0b;
+  margin-top: 67px;
+  height: 650px;
+}
+.contact_form {
+  margin-top: 78px;
+}
+.contact_name_form input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  font-size: 16px;
+ color: #767a7f;
+ width: 668px;
+ padding-left: 303px;
+padding-bottom: 30px;
+}
+.contact_name_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form {
+  margin-top: 42px;
+}
+.contact_email_form input:focus {
+  box-shadow: none;
+  outline: none;
+}
+.contact_email_form input {
+  padding-left: 255px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  padding-bottom: 30px;
+  font-size: 16px;
+  color: #767a7f;
+ width: 668px;
+}
+.contact_message_form {
+  margin-top: 42px;
+}
+.contact_message_form textarea {
+  padding-left: 372px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #7e8287;
+  padding-bottom: 30px;
+  font-size: 16px;
+  color: #767a7f;
+ width: 818px;
+}
+.contact_message_form textarea:focus {
+  box-shadow: none;
+  outline: none;
+}
+.submit_button {
+  margin-top: 56px;
+  
+}
+.submit_button button { color: #0b1016;
+  background-color: #cfc91d;
+  border: none;
+  font-size: 14px;
+  font-weight: 800;
+  padding: 13px 17px;
+}
+/*//Contact Section CSS End */
+
+/*Last Section CSS Start */
+#last_section {
+  background-color: #000;
+  height: 33px;
+}
+.last_section_content {
+   margin-top: 9px;
+}
+.last_section_content p {
+   font-size: 12px;
+   color: #767a7f;
+}
+/*//Last Section CSS End */
+}
+
+/*xxl*/
+@media (min-width:1400px) {}
